@@ -10,4 +10,9 @@ habitats. We benchmarked 10 state-of-the-art object detection models, demonstrat
 metrics. This dataset represents a significant contribution to wildlife monitoring and conservation, supporting vulnerable Houbara Bustard
 research while offering a foundation for broader applications by providing a valuable resource for researchers and practitioners.
 
-![Project Logo](grid.png)
+![Project Logo](1.png)
+The sample images from the dataset
+
+![Project Logo](grid_image.jpg)
+
+![Project Logo](grid_image2.jpg)
