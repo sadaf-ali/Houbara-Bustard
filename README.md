@@ -10,6 +10,8 @@ habitats. We benchmarked 10 state-of-the-art object detection models, demonstrat
 metrics. This dataset represents a significant contribution to wildlife monitoring and conservation, supporting vulnerable Houbara Bustard
 research while offering a foundation for broader applications by providing a valuable resource for researchers and practitioners.
 
+#Dataset Downloadlink:#
+https://figshare.com/articles/dataset/HBID24K_A_New_Benchmark_Dataset_for_Vulnerable_Houbara_Bustard_and_Intruder_Detection/28202888
 
 # The sample images from the dataset
 ![Project Logo](1.png)
